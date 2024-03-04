@@ -1,4 +1,4 @@
-/build/*
-!/build/CMakeLists.txt
-!/build/main.cpp
+/build1/*
+!/build1/CMakeLists.txt
+!/build1/example.sln
 **/*.jpg
