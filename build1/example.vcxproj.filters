@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\verem\OneDrive\Документы\GitHub\Laba1.2\Res2\Laba2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\verem\OneDrive\Документы\GitHub\Laba1.2\Res2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1C1C199A-F579-36A7-B2E2-214455223EFA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
