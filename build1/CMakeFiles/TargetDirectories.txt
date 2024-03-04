@@ -1,3 +1,0 @@
-C:/Users/verem/OneDrive/Документы/GitHub/Laba1.2/build1/CMakeFiles/example.dir
-C:/Users/verem/OneDrive/Документы/GitHub/Laba1.2/build1/CMakeFiles/ALL_BUILD.dir
-C:/Users/verem/OneDrive/Документы/GitHub/Laba1.2/build1/CMakeFiles/ZERO_CHECK.dir
